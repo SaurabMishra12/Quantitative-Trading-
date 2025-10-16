@@ -1,0 +1,7 @@
+yfinance
+pytrends
+GoogleNews
+snscrape
+textblob
+requests
+pandas
